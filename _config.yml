@@ -1,10 +1,10 @@
 # Site settings
-title: Pixyll
-email: your_email@example.com
-author: John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl: ""
-url: "http://pixyll.com"
+title: ~micah
+email: micah@micahwalter.com
+author: micah walter
+description: "I'm on tilde club."
+baseurl: "http://tilde.club/~micah"
+url: "http://tilde.club/~micah"
 google_analytics:
 animated: false
 show_related_posts: false
